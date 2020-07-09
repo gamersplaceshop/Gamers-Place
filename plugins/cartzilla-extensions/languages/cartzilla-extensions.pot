@@ -1,0 +1,272 @@
+# Copyright (C) 2020 MadrasThemes
+# This file is distributed under the same license as the Cartzilla Extensions package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cartzilla Extensions 1.0.2\n"
+"Report-Msgid-Bugs-To: https://madrasthemes.freshdesk.com/\n"
+"POT-Creation-Date: 2020-06-15 14:28:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: POT <support@madrasthemes.freshdesk.com>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: cartzilla-extensions.php:198 cartzilla-extensions.php:207
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/admin/class-cartzilla-admin-meta-boxes.php:94
+msgid "Featured Icon"
+msgstr ""
+
+#: includes/admin/class-cartzilla-admin.php:67
+msgid "Cartzilla"
+msgstr ""
+
+#: includes/admin/meta-boxes/class-cartzilla-meta-box-docs-featured-icon.php:33
+msgid "Icon Class"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-blog-categories-widget.php:20
+msgid "Blog categories list with counts"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-blog-categories-widget.php:21
+msgid "(Cartzilla) Blog Categories"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:20
+msgid "Google Play, App Store, Windows Store and Amazon.com buttons"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:21
+msgid "(Cartzilla) Market Buttons"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:53
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:59
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:65
+msgid "Download on the"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:54
+msgid "App Store"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:60
+msgid "Google Play"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:66
+msgid "Windows Store"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:71
+msgid "Order now at"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:72
+msgid "Amazon.com"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:108
+msgid "App Store URL"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:117
+msgid "Google Play URL"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:126
+msgid "Windows Store URL"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:135
+msgid "Amazon Store URL"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:30
+msgid "Your latest posts in a fancy manner."
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:31
+msgid "(Cartzilla) Recent Posts"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:97
+msgid "Posts not found."
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:143
+msgid "Number of posts"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:151
+msgid "Category"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:158
+#. translators: "All categories" option in recent Posts widget
+msgid "All"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:20
+msgid "Cartzilla Subscription Form"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:21
+msgid "(Cartzilla) Subscription"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:56
+msgid "Your email"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:60
+#. translators: text on submit button
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:87
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-subscription-widget.php:96
+msgid "Form Shortcode"
+msgstr ""
+
+#: modules/theme-shortcodes/elements/compare-page.php:19
+msgid "You need to enable YITH Compare plugin for product comparison to work"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Cartzilla Extensions"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://madrasthemes.com/cartzilla"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This selection of extensions compliment our theme Cartzilla. Please note: "
+"they don’t work with any WordPress theme, just Cartzilla."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MadrasThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-blog-categories-widget.php:80
+#: includes/widgets/class-cartzilla-market-buttons-widget.php:99
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:134
+msgctxt "widget title"
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-blog-categories-widget.php:93
+msgctxt "widget settings"
+msgid "Show post counts"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-recent-posts-widget.php:88
+#. translators: posted by
+msgctxt "front-end"
+msgid "by"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:141
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:71
+#. translators: placeholder for search field in Product Categories widget
+msgctxt "front-end"
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:152
+#. translators: view all products in current (parent) category
+msgctxt "front-end"
+msgid "View all"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:21
+msgctxt "widget"
+msgid "A filterable list of product categories."
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:22
+msgctxt "widget"
+msgid "(Cartzilla) Product Categories"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:184
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:173
+msgctxt "widget"
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:193
+msgctxt "widget"
+msgid "Order by"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:199
+msgctxt "widget"
+msgid "Category order"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:200
+msgctxt "widget"
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:210
+msgctxt "widget"
+msgid "Show product counts"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:220
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:212
+msgctxt "widget"
+msgid "Show search field"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-categories-widget.php:230
+msgctxt "widget"
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:20
+msgctxt "widget"
+msgid "Display a list of attributes to filter products in your store."
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:21
+msgctxt "widget"
+msgid "(Cartzilla) Filter Products by Attribute"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:182
+msgctxt "widget"
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:195
+msgctxt "widget"
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:201
+msgctxt "widget"
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/class-cartzilla-wc-filter-by-attribute-widget.php:202
+msgctxt "widget"
+msgid "OR"
+msgstr ""

@@ -1,0 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cartzilla Gutenberg Blocks\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-04 00:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. Name of the plugin
+msgid "Cartzilla Gutenberg Blocks"
+msgstr ""
+
+#. Description of the plugin
+msgid "Gutenberg Blocks for Cartzilla WordPress Theme"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://demo2.madrasthemes.com/cartzilla/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://madrasthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "MadrasThemes"
+msgstr ""
+
+#: src/ajax-functions.php:675
+msgid "Member Since"
+msgstr ""
+
+#: src/ajax-functions.php:404
+msgid "No posts available."
+msgstr ""
+
+#: src/ajax-functions.php:678
+msgid "View products"
+msgstr ""
